@@ -4,7 +4,7 @@ I’m a self-taught frontend software engineer & freelance web developer in Turk
 
 ### Connect with me:
 
-- [Blog][website]
+- [website][website]
 - [Twitter][twitter]
 - [Linkedin][linkedin]
 - [Instagram][instagram]
@@ -12,7 +12,7 @@ I’m a self-taught frontend software engineer & freelance web developer in Turk
 <br />
 <br />
 
-[website]: https://zahidkarakaya.com
+[website]: https://zhtkrky.me
 [twitter]: https://twitter.com/zhtkrky
 [instagram]: https://instagram.com/zhtkrky
 [linkedin]: https://linkedin.com/in/zhtkrky
