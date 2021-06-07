@@ -4,7 +4,7 @@ I’m a self-taught frontend software engineer & freelance web developer in Turk
 
 ### Connect with me:
 
-- [website][website]
+- [Website][website]
 - [Twitter][twitter]
 - [Linkedin][linkedin]
 - [Instagram][instagram]
